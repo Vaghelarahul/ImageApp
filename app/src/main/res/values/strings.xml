@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EckovationTask</string>
+
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+
+    <string name="search_view_lable">Search</string>
+    <string name="search_view_hint">Search here...</string>
+</resources>
